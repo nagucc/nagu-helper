@@ -2,8 +2,9 @@
   "name": "nagu-helper",
   "description": "nagu project lib",
   "main": "dist/nagu-helper.js",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "dependencies": {
-    "bootstrap": "~3.3.1"
+    "bootstrap": "~3.3.1",
+    "jstorage": "~0.4.12"
   }
 }
